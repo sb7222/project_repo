@@ -9,7 +9,7 @@ st.write("Hooray, we connected everything")
 
 st.write("Hello, this is a self check")
 
-
+st.write(even_list)
 
 
 

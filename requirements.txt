@@ -1,15 +1,7 @@
 streamlit
 pandas
-random
-json
 requests
-copy
-Python.display
-HTML
-PIL
-Image
-ImageEnhance
-datetime
+Pillow
 matplotlib
 
 

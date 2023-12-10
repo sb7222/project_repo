@@ -5,7 +5,8 @@ import pandas as pd
 import json
 import requests
 import copy
-from IPython.display import HTML
+html_content = "<div style='text-align: center;'>Your HTML content here</div>"
+st.markdown(html_content, unsafe_allow_html=True)
 from PIL import Image, ImageEnhance
 from datetime import datetime
 import streamlit.components.v1 as components

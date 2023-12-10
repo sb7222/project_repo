@@ -11,5 +11,5 @@ Image
 ImageEnhance
 datetime
 streamlit.components.v1
-matplotlib.pyplot 
+matplotlib
 
